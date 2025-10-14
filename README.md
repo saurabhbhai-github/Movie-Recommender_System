@@ -1,7 +1,7 @@
 # 🎬 Movie Recommender System
 
 A **Movie Recommendation System** built using **Unsupervised Machine Learning** techniques.  
-This project uses **text vectorization (TF-IDF)** and **cosine similarity** to recommend movies based on their descriptions.  
+This project uses **text vectorization (Bag of words)** and **cosine similarity** to recommend movies based on their descriptions.  
 The web interface is developed using **Streamlit**.
 
 ---
@@ -22,4 +22,4 @@ The web interface is developed using **Streamlit**.
 
 ---
 
-## 📂 Project Structure
+
