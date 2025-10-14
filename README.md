@@ -17,7 +17,7 @@ The web interface is developed using **Streamlit**.
 
 ## 🛠️ Tech Stack
 - **Pandas** – Data handling
-- **Scikit-learn** – TF-IDF vectorizer & cosine similarity
+- **Scikit-learn** – Count vectorizer & cosine similarity
 - **Streamlit** – Web app UI
 
 ---
